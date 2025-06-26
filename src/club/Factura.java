@@ -9,6 +9,7 @@ public class Factura {
         nombre = pNombre;
         concepto = pConcepto;
         valor = pValor;
+
     }
 
     public String darConcepto() {
